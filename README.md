@@ -3,7 +3,6 @@
 ![Figma](https://img.shields.io/badge/figma-%2300f.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-%235835CC?style=for-the-badge&logo=.net&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-%235835CC?style=for-the-badge&logo=haskell&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
