@@ -1,4 +1,4 @@
-![TypeScript](https://img.shields.io/badge/typescript-%2300f.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%2300f.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2300f.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%2300f.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
